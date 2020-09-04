@@ -8,3 +8,5 @@ There are some websites i used frequently.
 
 [TensorRT Installation URL](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)
 
+[What is TensorRT?](https://developer.nvidia.com/blog/production-deep-learning-nvidia-gpu-inference-engine/) 
+
